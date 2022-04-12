@@ -1,0 +1,41 @@
+{
+  "productList": [
+    {
+      "productName": "Billa",
+      "category": "Electronics",
+      "freshness": "Second Hand",
+      "price": 500,
+      "comment": "giut",
+      "date": "2022-04-01T18:30:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "Mobile",
+      "category": "Electronics",
+      "freshness": "Brand New",
+      "price": 25000,
+      "comment": "This is a Brand new Phone worth=25000",
+      "date": "2022-09-07T18:30:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "Banana",
+      "category": "Fruits",
+      "freshness": "Refurbished",
+      "price": 35,
+      "comment": "This is a fruit",
+      "date": "2022-04-08T18:30:00.000Z",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
